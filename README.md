@@ -2,13 +2,13 @@
 Dentist Booking Window Application is a system for managing the appointment schedule of the dental center. The system includes a number of main functions such as viewing, adding, canceling, editing, and writing notes for customer’s appointments.
 
 <p align="center">
-<img src="https://github.com/light-tree/Dentist-Booking-System/blob/main/images/appointmentscreen.JPG" style="
+<img src="https://github.com/hiddenworry/Dentist-Booking-System-Win-App-framework/blob/main/images/appointmentscreen.JPG" style="
 	width:75%;
 	display: block;">
 </p>
 <br />
 <p align="center">
-<img src="https://github.com/light-tree/Dentist-Booking-System/blob/main/images/doctorscreen.JPG" style="
+<img src="https://github.com/hiddenworry/Dentist-Booking-System-Win-App-framework/blob/main/images/doctorscreen.JPG" style="
 	width:75%;
 	display: block;">
 </p>
@@ -19,7 +19,7 @@ Dentist Booking Window Application is a system for managing the appointment sche
 ### Technologies
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/light-tree/Dentist-Booking-System/main/images/technologies.JPG" style="
+<img src="https://github.com/hiddenworry/Dentist-Booking-System-Win-App-framework/blob/main/images/technologies.JPG" style="
 	width:75%;
 	display: block;">
 </p>
