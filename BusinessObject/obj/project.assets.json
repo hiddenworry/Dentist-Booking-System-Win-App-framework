@@ -5802,11 +5802,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ptl01\\Desktop\\GroupAssignment_SE1625_Group3\\GroupAssignment_SE1625_Group3\\BusinessObject\\BusinessObject.csproj",
+      "projectUniqueName": "C:\\Users\\ptl01\\Desktop\\Syllabus\\Semester5\\project_for_cv_2\\BusinessObject\\BusinessObject.csproj",
       "projectName": "BusinessObject",
-      "projectPath": "C:\\Users\\ptl01\\Desktop\\GroupAssignment_SE1625_Group3\\GroupAssignment_SE1625_Group3\\BusinessObject\\BusinessObject.csproj",
+      "projectPath": "C:\\Users\\ptl01\\Desktop\\Syllabus\\Semester5\\project_for_cv_2\\BusinessObject\\BusinessObject.csproj",
       "packagesPath": "C:\\Users\\ptl01\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ptl01\\Desktop\\GroupAssignment_SE1625_Group3\\GroupAssignment_SE1625_Group3\\BusinessObject\\obj\\",
+      "outputPath": "C:\\Users\\ptl01\\Desktop\\Syllabus\\Semester5\\project_for_cv_2\\BusinessObject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ptl01\\AppData\\Roaming\\NuGet\\NuGet.Config",
